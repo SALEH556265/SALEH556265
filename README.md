@@ -1,72 +1,18 @@
-<div align="center">
+# 💫 About Me:
+Hi, I’m Saleh<br>Business & IT student<br>Currently learning python <br>Graphic designing|Mircosoft excel<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=SALEH556265&fontSize=50&fontColor=ffffff&animation=twinkling&desc=BBIT%20Student&descAlignY=60&descSize=20" width="100%"/>
 
-<a href="https://github.com/SALEH556265">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=BBIT+Student;Learning+Python;Exploring+Business+%26+Technology" alt="Typing SVG" />
-</a>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Saleh Salman Siddiqui) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saleh.s.siddiqui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saleh salman ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ahmedsiddiqui.salman3@gmail.com) 
 
-<img src="https://komarev.com/ghpvc/?username=SALEH556265&color=7dd3fc&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/SALEH556265?label=Followers&style=flat-square&color=7dd3fc" />
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SALEH556265&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SALEH556265&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SALEH556265&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=SALEH556265&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>
-
-## 👤 Who I Am
-
-```typescript
-const saleh = {
-  title: "BBIT Student",
-  stack: ["Python"],
-  launchedProjects: [],
-  certifications: [],
-  status: "Learning & Building",
-  openTo: ["Internships", "Collaboration"],
-};
-```
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SALEH556265&show_icons=true&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALEH556265&layout=compact&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&bg_color=0d1117" width="49%" />
-
-<img src="https://streak-stats.demolab.com/?user=SALEH556265&theme=nord&hide_border=true&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" width="70%" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SALEH556265&theme=nord&no-frame=true&no-bg=true&column=7" width="90%" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SALEH556265&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" width="90%" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
